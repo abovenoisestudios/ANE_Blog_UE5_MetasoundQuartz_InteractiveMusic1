@@ -69,9 +69,10 @@ Saved/*
 # Compiled source files for the engine to use
 Intermediate/*
 Plugins/*/Intermediate/*
+Plugins/Developer/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# Wwise and extra ignore
+# extra ignore
 .idea
