@@ -1,7 +1,7 @@
-# Spatialization #1 in Unreal Engine 5 and Wwise
+# Vertical Remixing with Metasounds and Quartz - Unreal Engine 5
 ### Game Audio Blog - Above Noise Studios
-English: [https://abovenoisestudios.com/blogeng/wwiseue5spatialization1eng](https://abovenoisestudios.com/blogeng/wwiseue5spatialization1eng)\
-Spanish: [https://abovenoisestudios.com/blogespanol/wwiseue5spatialization1esp](https://abovenoisestudios.com/blogespanol/wwiseue5spatialization1esp)\
+English: [https://abovenoisestudios.com/blogeng/wwiseue5spatialization1eng](https://abovenoisestudios.com/blogeng/verticalremixmetasoundseng)\
+Spanish: [https://abovenoisestudios.com/blogespanol/wwiseue5spatialization1esp](https://abovenoisestudios.com/blogespanol/verticalremixmetasoundsesp)\
 \
 Created By: Horacio Valdivieso\
 [horacio@abovenoisestudios.com](mailto:horacio@abovenoisestudios.com)\
