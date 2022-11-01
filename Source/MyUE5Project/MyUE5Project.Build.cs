@@ -8,6 +8,8 @@ public class MyUE5Project : ModuleRules
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 
-		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "HeadMountedDisplay", "MetasoundEngine"});
+		// Add the "MetasoundEngine" module to use Metasound Source.
+		// Add the "AudioMixer" module to use the Quartz Subsystem. 
+		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "HeadMountedDisplay", "MetasoundEngine", "AudioMixer"});
 	}
 }
