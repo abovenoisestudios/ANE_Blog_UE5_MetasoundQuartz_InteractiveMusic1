@@ -36,7 +36,7 @@ void AMusicPlayerActor::CreateClockAndPlayMusic(FName ClockName, int NumBeats, E
 	ClockSettings.TimeSignature = TimeSignature;
 
 	/** Creates a new clock the previous setting structures. */
-	MusicClock = Quartz->CreateNewClock(this, ClockName, ClockSettings);
+	MusicClock = Quartz->CreateNewClock(this, ClockName, ClockSettings, true);
 	/** Sets the tempo for the clock. */
 	MusicClock->SetBeatsPerMinute(this, FQuartzQuantizationBoundary(), FOnQuartzCommandEventBP(), MusicClock, BeatsPerMinute);
 

@@ -33,7 +33,7 @@ public:
 	UPROPERTY(EditDefaultsOnly, BlueprintReadWrite, Category="Music")
 	UAudioComponent* MusicAudioComponent;
 
-	/** Current trigger parameter name. It changes and updates the music "states" on the Metasound. */
+	/** Current trigger parameter name. It changes and updates the music "state" on the Metasound. */
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Music")
 	FName TriggerParameter;
 
@@ -62,9 +62,9 @@ public:
 	int BarNumbers = 8;
 
 	/** Defines the musical timing boundary when the functions will trigger.
-	 *  As default, this enumeration will make the functions trigger at the end of the beat. */
+	 *  As default, this enumeration will make the functions trigger at the end of a half note = 1/2. */
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Quartz Clock")
-	EQuartzCommandQuantization QuantizationBoundary = EQuartzCommandQuantization::Beat;
+	EQuartzCommandQuantization QuantizationBoundary = EQuartzCommandQuantization::HalfNote;
 
 	#pragma endregion PROPERTIES
 
