@@ -1,7 +1,9 @@
 # Vertical Remixing with Metasounds and Quartz - Unreal Engine 5
 ### Game Audio Blog - Above Noise Studios
-English: [https://abovenoisestudios.com/blogeng/metasquartzverticaleng](https://abovenoisestudios.com/blogeng/metasquartzverticaleng)\
-Spanish: [https://abovenoisestudios.com/blogespanol/metasquartzverticalesp](https://abovenoisestudios.com/blogespanol/metasquartzverticalesp)\
+English Part 1: [https://abovenoisestudios.com/blogeng/metasquartzverticaleng](https://abovenoisestudios.com/blogeng/metasquartzverticaleng)\
+English Part 2: [https://abovenoisestudios.com/blogeng/metasquartzverticalengp2](https://abovenoisestudios.com/blogeng/metasquartzverticalengp2)\
+Spanish Part 1: [https://abovenoisestudios.com/blogespanol/metasquartzverticalesp](https://abovenoisestudios.com/blogespanol/metasquartzverticalesp)\
+Spanish Part 2: [https://abovenoisestudios.com/blogespanol/metasquartzverticalespp2](https://abovenoisestudios.com/blogespanol/metasquartzverticalespp2)\
 \
 Created By: Horacio Valdivieso\
 [horacio@abovenoisestudios.com](mailto:horacio@abovenoisestudios.com)\

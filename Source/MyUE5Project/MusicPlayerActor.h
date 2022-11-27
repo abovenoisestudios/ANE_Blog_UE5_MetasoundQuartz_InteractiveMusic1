@@ -62,7 +62,7 @@ public:
 	int BarNumbers = 8;
 
 	/** Defines the musical timing boundary when the functions will trigger.
-	 *  As default, this enumeration will make the functions trigger at the end of a half note = 1/2. */
+	 *  As default, this enumeration will trigger the fun ctions at the end of a half note = 1/2. */
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Quartz Clock")
 	EQuartzCommandQuantization QuantizationBoundary = EQuartzCommandQuantization::HalfNote;
 
