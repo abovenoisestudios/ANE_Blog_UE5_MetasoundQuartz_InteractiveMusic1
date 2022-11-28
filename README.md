@@ -10,8 +10,8 @@ Created By: Horacio Valdivieso\
 [LinkedIn](https://www.linkedin.com/in/horaciovaldivieso/)
 
 ---
-_Unreal Engine Version: **5.0.3**_\
-_Wwise Version: **2021.1.10.7883**_
+_Unreal Engine Version: **5.0.3**_
+
 ### **English:**
 This repository contains an Unreal Engine 5 project.
 It uses a first-person template created with the Epic Games Launcher.
